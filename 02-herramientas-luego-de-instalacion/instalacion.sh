@@ -19,5 +19,8 @@ tree
 tree -d                                                         #lista solo los directorios
 
 sudo apt install curl wget net-tools                            #algunas ya vienen instaladas, ademas net-tools supuestamente ya quedo viejo para usarlo pero es comun todavia encontrar tutoriales de como usarlo y por eso es que lo pongo igual
+                                                                #tenemos que tener en cuenta que puede que usemos comandos que necesiten de net-tools para hacer configuraciones que si no lo tenemos instalados usar "ip" va a ser que tengamos que modificar ciertas partes
                                                                 #ahora parece que se usa "ip" con muchas de sus variantes
+
+                                                                
 
