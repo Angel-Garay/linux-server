@@ -7,3 +7,6 @@ Por eso cada una de las secciones no trata de dar todas las soluciones específi
 
 ## cada directorio/carpeta tiene 2 archivos
 Cada directorio o carpeta tiene 2 archivos que se llaman "instalacion" y "explicacion". Uno es en formato .sh porque trata de parecer una serie de instrucciones que podemos seguir para lograr el proposito de la carpeta (o seccion). El otro archivo es un .md o markdown porque su intencion es la de explicar de mejor manera y mas detallada LOS CONCEPTOS ESTRATEGICOS de esta seccion
+
+## no pongo links
+Voy a poner los conceptos estratégicos como dije antes y lo que hay que hacer por eso no voy a poner "links" porque estos cambian constantemente y no es el objetivo del repo ese, el objetivo seria decir que hay que hacer y luego por nuestra cuenta buscarlo para luego si hacer la instalación
