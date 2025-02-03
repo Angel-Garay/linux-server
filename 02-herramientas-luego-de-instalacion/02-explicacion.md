@@ -1,6 +1,6 @@
 # Este texto tiene como objetivo orientar que tenemos que instalar luego de la Instalacion
 
-## Tenemos que instalar lo basico para movernos por la terminal sin problemas
+### Tenemos que instalar lo basico para movernos por la terminal sin problemas
 
 Aca voy a poner los conceptos fundamentales de porque tenemos que instalar ciertas herramientas
 

@@ -10,3 +10,16 @@ Cada directorio o carpeta tiene 2 archivos que se llaman "instalacion" y "explic
 
 ## no pongo links
 Voy a poner los conceptos estratégicos como dije antes y lo que hay que hacer por eso no voy a poner "links" porque estos cambian constantemente y no es el objetivo del repo ese, el objetivo seria decir que hay que hacer y luego por nuestra cuenta buscarlo para luego si hacer la instalación
+
+## final sin final
+Realmente no le encuentro un final a las posibilidades que se pueden hacer con la creación de un servidor. Por eso aunque parezca algo escuchado muchas veces: siempre hay algo nuevo que aprender.
+
+## agradecimientos y de donde podemos tomar ideas
+Compucenter33
+Linux con Last Dragon
+Drive Meca
+Locos Por Linux
+El pinguino de Mario
+Pelado Nerd
+
+Y muchos más creadores de contenido de los cuales siempre podemos tomar ideas.

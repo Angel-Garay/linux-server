@@ -26,3 +26,9 @@
             access-points:                                                    
                 "NOMBRE-DE-LA-RED":                                                    
                 password: "CONTRASEÑA-SEGURA"    
+
+
+    ssh usuario@192.168.1.16 + ENTER + yes + CONTRASEÑA = tendriamos que entrar a nuestro servidor
+
+        
+    
